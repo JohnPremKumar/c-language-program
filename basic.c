@@ -10,10 +10,5 @@ void main()
         printf("Even");
     }
     else
-        if(n%2!=0)
-    {
-        printf("odd");
-    }
-    else
-        printf("Invalid");
+        printf("invalid");
 }
