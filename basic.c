@@ -9,5 +9,12 @@ void main()
         printf("Even");
     }
     else
+        if(n%2!=0)
+        {
+          printf("Odd"); 
+        }
+    else
         printf("invalid");
+
+
 }
